@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nYDBNBDWbq28qDibMNfyzXzp2DpYsf+kNRuMZI6BkC4=",
+  "Source": "SingalRApi",
+  "BasePath": "_content/SingalRApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

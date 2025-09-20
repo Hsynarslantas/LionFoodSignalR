@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SingalRApi\\SingalRApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SingalRWebUI\\SingalRWebUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

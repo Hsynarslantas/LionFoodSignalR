@@ -1,0 +1,11 @@
+C:\Users\natar\source\repos\SingalRProject\SingalR.DtoLayer\bin\Debug\net8.0\SingalR.DtoLayer.deps.json
+C:\Users\natar\source\repos\SingalRProject\SingalR.DtoLayer\bin\Debug\net8.0\SingalR.DtoLayer.dll
+C:\Users\natar\source\repos\SingalRProject\SingalR.DtoLayer\bin\Debug\net8.0\SingalR.DtoLayer.pdb
+C:\Users\natar\source\repos\SingalRProject\SingalR.DtoLayer\obj\Debug\net8.0\SingalR.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natar\source\repos\SingalRProject\SingalR.DtoLayer\obj\Debug\net8.0\SingalR.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\natar\source\repos\SingalRProject\SingalR.DtoLayer\obj\Debug\net8.0\SingalR.DtoLayer.AssemblyInfo.cs
+C:\Users\natar\source\repos\SingalRProject\SingalR.DtoLayer\obj\Debug\net8.0\SingalR.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\natar\source\repos\SingalRProject\SingalR.DtoLayer\obj\Debug\net8.0\SingalR.DtoLayer.dll
+C:\Users\natar\source\repos\SingalRProject\SingalR.DtoLayer\obj\Debug\net8.0\refint\SingalR.DtoLayer.dll
+C:\Users\natar\source\repos\SingalRProject\SingalR.DtoLayer\obj\Debug\net8.0\SingalR.DtoLayer.pdb
+C:\Users\natar\source\repos\SingalRProject\SingalR.DtoLayer\obj\Debug\net8.0\ref\SingalR.DtoLayer.dll
